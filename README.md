@@ -113,10 +113,3 @@ Python**.
 
 ------------------------------------------------------------------------
 
-# 📬 Contact
-
-If you are interested in collaboration or discussing data analysis
-opportunities, feel free to connect.
-
--   GitHub: https://github.com/
--   LinkedIn: https://linkedin.com/
